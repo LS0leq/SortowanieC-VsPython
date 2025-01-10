@@ -1,0 +1,3 @@
+Czas otwierania: 0.2917 ms
+Czas sortowania: 0.0005 ms
+Czas zapisywania: 0.4295 ms
