@@ -17,7 +17,7 @@ Jak działa projekt?
    Najpierw należy wygenerować liczby oraz zapisać je do pliku tekstowego. Należy uruchomić program w obu językach i porównać za co odpowiada plik results.
 
 
-Działanie programó oraz wnioski wynikające z testów:
+Działanie programu oraz wnioski wynikające z testów:
 1. Wydajność wczytywania i konwersji liczb
 Python był minimalnie szybszy w wczytywaniu i konwersji liczb (0.192 ms w Pythonie vs 0.2372 ms w C++). Wynika to prawdopodobnie z optymalizacji wbudowanych funkcji Pythona do obsługi plików i operacji na liczbach, które są wysoko zintegrowane z interpretatorem języka.
 
