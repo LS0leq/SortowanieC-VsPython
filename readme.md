@@ -2,13 +2,13 @@
 Projekt ma na celu porównanie wyników generowanych przez implementacje programu w dwóch różnych językach: "C++" oraz "Python". Główne komponenty projektu obejmują generowanie danych wejściowych, uruchamianie programu w obu językach oraz analizowanie wyników.
 
 plik generator:
-  Zawiera skrypty lub narzędzia odpowiedzialne za generowanie danych wejściowych potrzebnych do uruchomienia programów.
+  Zawiera skrypt odpowiedzialny za generowanie danych wejściowych potrzebnych do uruchomienia programów.
 
 plik outputC:
-  Przechowuje wyniki działania programu napisanego w języku C.
+  Sortuje w języku C++.
 
 plik outputPy
-  Zawiera wyniki działania programu napisanego w Pythonie.
+  Sortuje w języku Python.
 
 plik results: 
   W tym katalogu znajdują się ostateczne wyniki, takie jak podsumowanie, analiza porównawcza, raporty itp.
